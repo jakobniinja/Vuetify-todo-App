@@ -42,7 +42,7 @@ export default {
       selectedItem: 1,
       items: [
         { text: 'Ec Utbildningar', icon: 'mdi-clock', link:'https://ecutbildning.se/utbildningar/javautvecklare/stockholm/',id: 0 },
-        { text: 'Mer om mig', icon: 'mdi-poll', link:'https://www.linkedin.com/in/jakob-yaro-178546205',id: 1 },
+        { text: 'More about me', icon: 'mdi-poll', link:'https://www.docdroid.net/lU5j2uo/cv-jakobyaro-1-pdf',id: 1 },
         { text: 'Github', icon: 'mdi-palette', link:'https://github.com/jakeHacker99',id: 2 },
       ],
       
