@@ -1,5 +1,25 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6">
+
+
+
+    <h1>About Me: </h1>
+    <List-info/>
+
+
   </div>
 </template>
+
+
+<script>
+
+import listinfo from '../components/ListOfInfo'
+export default {
+  components: {
+    'List-info': listinfo
+  }
+  
+
+}
+</script>
+
