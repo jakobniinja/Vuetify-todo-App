@@ -43,6 +43,7 @@ export default {
       items: [
         { text: 'Ec Utbildningar', icon: 'mdi-clock', link:'https://ecutbildning.se/utbildningar/javautvecklare/stockholm/',id: 0 },
         { text: 'My Resumé', icon: 'mdi-poll', link:'https://www.docdroid.net/PAsdewf/mitt-cvv-pdf',id: 1 },
+        { text: 'Linkedin', icon: 'mdi-linkedin', link:'https://www.docdroid.net/PAsdewf/mitt-cvv-pdf',id: 5 }
         { text: 'Github', icon: 'mdi-palette', link:'https://github.com/jakeHacker99',id: 2 },
         { text: 'Contact', icon: 'mdi-android-messages', link:'https://wa.me/+46793351364?text=tja%20jakob%20jag%20gillade%20din%20VuetifoTodo-app%20;)',id: 2 }
       ],
